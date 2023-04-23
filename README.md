@@ -1,6 +1,3 @@
-
-## greetings!
-
 ```javascript
 
 class Person { 
