@@ -12,4 +12,3 @@ class Person {
 }
 
 let personOne = new Person('Kastriot', 'Frontend', 'VueJS');
-console.log(personOne);
